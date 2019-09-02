@@ -80,6 +80,10 @@ h3{
 .fa:hover {
     opacity: 0.7;
 }
+.fa-github {
+	background: black;
+	color:white;
+}
 
 .fa-facebook {
   background: #3B5998;
